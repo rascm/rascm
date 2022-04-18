@@ -4,5 +4,5 @@ I'm just a hobby programmer who does not speak english. I would be almost lost w
 
 ```html
 <!-- Paste this above my code -->
-<script src="https://www.polyfill.io/v3/"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js"></script>
 ```
